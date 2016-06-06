@@ -8,7 +8,7 @@
       "matches": [ "https://photos.shutterfly.com/*" ]
    } ],
    "default_locale": "en",
-   "description": "Download multiple photos at a time with ShutterFly",
+   "description": "Download multiple selected photos at a time",
    "homepage_url": "http://redth.codes",
    "icons": {
       "128": "icons/icon128.png",
@@ -17,7 +17,7 @@
    },
    "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAnqxtyNMRyT6SrK2dMxKTj5vzz8uFHOGJmcASQIx8Gr67EDrgpZgag/Qy5gAQRduMstFWvNFILm18GQ9YW+UFBbpn5byUJ4xWtKPdrxmKivx2ZJe2KMiQzZ8C1h/DRQcuUPqLHgoQIkTrOCRhcZQUAKprLw7d7NIcQp6UD2Q5yIBvIzebLflC0Sb1BjuyRWwxi5z/rYmt0kZIVeWlOOiCDBEdR9PUjPdg1xUH7WxGoHF7Gw3p/bgggRP6NI942rBti/8qkksPiWNjot0gJqgUh8l1DGDLivcssxpF61m49K4ELlYbuGyn94apCSd3/wiYHhic6EHNyMQFyOtCV8CvTQIDAQAB",
    "manifest_version": 2,
-   "name": "ShutterFly Selected Photo Downloader",
+   "name": "ShutterFly Selected Photo Bulk Downloader",
    "omnibox": {
       "keyword": "ShutterFly"
    },
@@ -27,6 +27,6 @@
    },
    "permissions": [ "contentSettings", "downloads", "https://photos.shutterfly.com/*" ],
    "update_url": "https://clients2.google.com/service/update2/crx",
-   "version": "1.0.2",
+   "version": "1.0.3",
    "web_accessible_resources": [ "src/inject/page.js", "src/inject/downloadselected.js" ]
 }
