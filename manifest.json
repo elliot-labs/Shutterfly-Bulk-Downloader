@@ -27,6 +27,6 @@
    },
    "permissions": [ "contentSettings", "downloads", "https://photos.shutterfly.com/*" ],
    "update_url": "https://clients2.google.com/service/update2/crx",
-   "version": "1.0.3",
+   "version": "1.1.0",
    "web_accessible_resources": [ "src/inject/page.js", "src/inject/downloadselected.js" ]
 }

@@ -1,4 +1,4 @@
 jQuery Component
 ================
 
-Shim repository for jQuery.
+jQuery v2.2.4
