@@ -9,7 +9,7 @@
    } ],
    "default_locale": "en",
    "description": "Download multiple selected photos at a time",
-   "homepage_url": "http://redth.codes",
+   "homepage_url": "https://github.com/elliot-labs/Shutterfly-Bulk-Downloader",
    "icons": {
       "128": "icons/icon128.png",
       "16": "icons/icon16.png",
