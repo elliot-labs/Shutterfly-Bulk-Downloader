@@ -1,6 +1,6 @@
 
-console.log ('page_action starting...');
+console.log (chrome.i18n.getMessage("PageActionStart"));
 
 
 
-console.log ('page_action complete.');
+console.log (chrome.i18n.getMessage("PageActionEnd"));

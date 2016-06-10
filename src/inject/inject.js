@@ -1,4 +1,4 @@
-console.log ("Injection starting...");
+console.log (chrome.i18n.getMessage("PageInjectStart"));
 
 function addScript (scriptSrc) {
     var s = document.createElement('script');
@@ -25,4 +25,4 @@ chrome.runtime.onMessage.addListener(
 
   });
 
-console.log ("Injection complete.");
+console.log (chrome.i18n.getMessage("PageInjectEnd"));
