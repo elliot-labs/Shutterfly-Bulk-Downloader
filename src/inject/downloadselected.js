@@ -6,7 +6,7 @@ function showNoneError () {
 if ($('#tl_selection_bar').length) {
 	
 	var test_data = JSON.parse(localStorage.getItem('crossClusterSessionData'));
-	var authToken = test_data.sessionToken;
+	var authToken = ThisLife.sessionToken;
 
 	if (ThisLife.app.selection._collection.models.length <= 0) {
 		showNoneError ();
