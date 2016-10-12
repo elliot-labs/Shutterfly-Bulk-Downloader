@@ -1,4 +1,4 @@
 jQuery Component
 ================
 
-jQuery v2.2.4
+jQuery v3.1.1
