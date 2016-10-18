@@ -15,7 +15,6 @@
       "16": "icons/icon16.png",
       "48": "icons/icon48.png"
    },
-   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAnqxtyNMRyT6SrK2dMxKTj5vzz8uFHOGJmcASQIx8Gr67EDrgpZgag/Qy5gAQRduMstFWvNFILm18GQ9YW+UFBbpn5byUJ4xWtKPdrxmKivx2ZJe2KMiQzZ8C1h/DRQcuUPqLHgoQIkTrOCRhcZQUAKprLw7d7NIcQp6UD2Q5yIBvIzebLflC0Sb1BjuyRWwxi5z/rYmt0kZIVeWlOOiCDBEdR9PUjPdg1xUH7WxGoHF7Gw3p/bgggRP6NI942rBti/8qkksPiWNjot0gJqgUh8l1DGDLivcssxpF61m49K4ELlYbuGyn94apCSd3/wiYHhic6EHNyMQFyOtCV8CvTQIDAQAB",
    "manifest_version": 2,
    "name": "__MSG_extName__",
    "page_action": {
@@ -24,6 +23,6 @@
    },
    "permissions": [ "contentSettings", "downloads", "https://photos.shutterfly.com/*" ],
    "update_url": "https://clients2.google.com/service/update2/crx",
-   "version": "1.1.2",
+   "version": "1.1.3",
    "web_accessible_resources": [ "src/inject/page.js", "src/inject/downloadselected.js" ]
 }
