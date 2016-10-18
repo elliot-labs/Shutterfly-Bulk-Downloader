@@ -1,9 +1,9 @@
 # Shutterfly Bulk Downloader
-Download a bunch of images quickly using the Shutterfly bulk image downloader.
+Download amultiple images quickly using the Shutterfly bulk image downloader.
 
-This is a Google Chrome extention based upon the [ThisLife downloader](https://chrome.google.com/webstore/detail/thislife-selected-photo-d/jenhhgibbjngpjlcmdlofffjeiplllad). The [ThisLife downloader](https://chrome.google.com/webstore/detail/thislife-selected-photo-d/jenhhgibbjngpjlcmdlofffjeiplllad) has been modified to support the merger of [ThisLife](https://www.thislife.com/) into [Shutterfly](https://www.shutterfly.com/).
+This is a Google Chrome extension based upon the [ThisLife downloader](https://chrome.google.com/webstore/detail/thislife-selected-photo-d/jenhhgibbjngpjlcmdlofffjeiplllad). The [ThisLife downloader](https://chrome.google.com/webstore/detail/thislife-selected-photo-d/jenhhgibbjngpjlcmdlofffjeiplllad) has been modified to support the merger of [ThisLife](https://www.thislife.com/) into [Shutterfly](https://www.shutterfly.com/).
 
-This extention ONLY works on [Shutterfly](https://www.shutterfly.com/), [ThisLife](https://www.thislife.com/) functionality has been removed!
+This extension ONLY works on [Shutterfly](https://www.shutterfly.com/), [ThisLife](https://www.thislife.com/) functionality has been removed!
 <hr />
 #### Need help installing this extention?
 Check out the wiki page for more info:
