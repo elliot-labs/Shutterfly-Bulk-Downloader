@@ -4,7 +4,7 @@
       "scripts": [ "src/bg/background.js" ]
    },
    "content_scripts": [ {
-      "js": [ "src/inject/inject.js", "js/jquery/jquery.min.js" ],
+      "js": [ "src/inject/inject.js", "js/jquery/jquery.slim.min.js" ],
       "matches": [ "https://photos.shutterfly.com/*" ]
    } ],
    "default_locale": "en",
@@ -22,6 +22,6 @@
       "default_title": "__MSG_DefaultTitle__"
    },
    "permissions": [ "contentSettings", "downloads", "https://photos.shutterfly.com/*" ],
-   "version": "1.1.4",
+   "version": "1.1.5",
    "web_accessible_resources": [ "src/inject/page.js", "src/inject/downloadselected.js" ]
 }
