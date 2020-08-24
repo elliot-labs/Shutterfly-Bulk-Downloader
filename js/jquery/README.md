@@ -1,4 +1,5 @@
 jQuery Component
 ================
 
-jQuery - v3.1.1
+jQuery Slim Min - v3.5.1
+https://jquery.com/download/
